@@ -1,5 +1,6 @@
 # FileCrypt.Samples
 
+<img src="/4.png" width="50%">
 ![Alt text1](/4.png?raw=true "Sample image")
 ![Alt text1](/5.png?raw=true "Sample image")
 ![Alt text1](/6.png?raw=true "Sample image")
